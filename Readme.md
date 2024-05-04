@@ -51,12 +51,10 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 ## Entry Level:
 
 #### 01. HTML:
-- 📹  [HTML - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)  
-- 📹  [HTML - freeCodeCamp](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- 📹  [HTML - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
 #### 02. CSS:
-- 📹  [CSS - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)  
-- 📹  [CSS - freeCodeCamp](https://www.youtube.com/watch?v=ieTHC78giGQ&t=4078s&ab_channel=freeCodeCamp.org)
+- 📹  [CSS - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
 #### 03. Javascript & Ajax & JSON :
 - 📹 [JavaScript - freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -65,11 +63,9 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 #### 04. BootStrap:
 - 📹 [Bootstrap 5 - Elzero ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
-- 📹 [Bootstrap CSS Framework - freeCodeCamp](https://www.youtube.com/watch?v=-qfEOE4vtxE)
 
 #### 05. Git & Github:
-- 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)  
-- 📹 [Git & GitHub - Almdrasa](https://almdrasa.com/tracks/programming-foundations/courses/git-github/)  
+- 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 - 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)  
 > and for extra Reading
 - 📖 [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
@@ -115,15 +111,11 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 ## Beginner Level: 
 
 #### 01. Introduction to Data Bases:
-- 📹 [Fundamentals of Database Systems - الدسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)  
-- 📹 [Database Fundamentals - Mahara Tech (Arabic)](https://maharatech.gov.eg/course/view.php?id=740)  
-- 📹 [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
-- 📹 [Relational Database Internals (Not Completed yet)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)
+- 📹 [Fundamentals of Database Systems - الدسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+- 📹 [Database Fundamentals - Mahara Tech (Arabic)](https://maharatech.gov.eg/course/view.php?id=740)
 
 #### 02. MySql:
-- 📹 [MySQL 5 Essential Training - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)  
-- 📹 [SQL Tutorial Full Database Course for Beginners - FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)  
-- 📹 [MySQL Tutorial for Beginners - Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)  
+- 📹 [MySQL 5 Essential Training - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
 - 📖 [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
 
 #### 03. PHP: 
@@ -131,9 +123,8 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>PHP - Basics</summary>
 
 - 📹 [PHP Bootcamp 2022 - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) and 📹 [Learn PHP 5 In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
-- 📹 [Learn PHP The Right Way ](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
-- 📹 [PHP For Beginners Laracasts ](https://laracasts.com/series/php-for-beginners-2023-edition)  
-    The Last One is a very important Course, you should see it even you watch either of the previous ones.
+- 📹 [Learn PHP The Right Way](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+- 📹 [PHP For Beginners Laracasts (very important)](https://laracasts.com/series/php-for-beginners-2023-edition)
 </details>
 
 <details>
@@ -141,8 +132,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 - 📹 [PHP registration form & validation](https://youtu.be/V5sJ76T3mWg)
 - 📹 [Create MySql Notes App](https://youtu.be/DOsuFRnBqLU)
-- 📹 [Todo app with PHP](https://youtu.be/NxeNqHdJFxs)
-- 📹 [Simple CRUD application with PHP and JSON](https://youtu.be/DWHZSkn5paQ)
 </details>
 
 <details>
@@ -151,7 +140,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📹 [OOP - Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)  
 - 📹 [Object Oriented Programming In PHP (Arabic)](https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1)  
 - 📹 [OOP - Dani Krossing (Recommended - English)](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) 
-- 📹 [OOP - laracasts (Paid)](https://laracasts.com/series/object-oriented-principles-in-php)
 </details>
 
 <details>
@@ -165,11 +153,9 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <details>
 <summary>PHP Projects </summary>
 
-- 📹 [OOP PHP Login System For Beginners | OOP PHP & PDO](https://www.youtube.com/watch?v=BaEm2Qv14oU&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh&index=19)
-- 📹 [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
-- 📹 [Building Web Applications Using PHP & MYSQL - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
 - 📹 [PHP 5.6 and MySQL 5.7 (Arabic)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
-- 📹 [Create eCommerce Shop - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU)
+- 📹 [Building Web Applications Using PHP & MYSQL - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
+- 📹 [OOP PHP Login System For Beginners | OOP PHP & PDO](https://www.youtube.com/watch?v=BaEm2Qv14oU&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh&index=19)
 </details>
 
 <details>
@@ -261,8 +247,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>Laravel Projects</summary>
 
 - 📹 [Laravel workshop (Arabic)](https://www.youtube.com/playlist?list=PLnls71Jg2COcJ2rw3wYlDEYSqMvFJBCZY)
-- 📹 [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
-- 📹 [Job listings application | Traversy Media](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=2)
 - 📹 [PHP Laravel 9 Course: Multi-Vendor Store Example (Arabic - Recommended)](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
 </details>
 
@@ -389,6 +373,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 - 📹 [What is New in Laravel 9](https://laracasts.com/series/whats-new-in-laravel-9)
 - 📹 [What is New in Laravel 10](https://laracasts.com/series/whats-new-in-laravel-10)
+- 📹 [What is New in Laravel 11](https://laracasts.com/series/whats-new-in-laravel-11)
 </details>
 
 <details>
