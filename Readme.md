@@ -122,9 +122,8 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <details>
 <summary>PHP - Basics</summary>
 
-- 📹 [PHP Bootcamp 2022 - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) and 📹 [Learn PHP 5 In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
-- 📹 [Learn PHP The Right Way](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
-- 📹 [PHP For Beginners Laracasts (very important)](https://laracasts.com/series/php-for-beginners-2023-edition)
+- 📹 [PHP - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
+- 📹 [PHP For Beginners Laracasts (Recommended)](https://laracasts.com/series/php-for-beginners-2023-edition)
 </details>
 
 <details>
@@ -137,25 +136,21 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <details>
 <summary>PHP - OOP </summary>
 
-- 📹 [OOP - Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)  
-- 📹 [Object Oriented Programming In PHP (Arabic)](https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1)  
-- 📹 [OOP - Dani Krossing (Recommended - English)](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) 
+- 📹 [OOP - Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+- 📹 [OOP - Dani Krossing (Recommended)](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) 
 </details>
 
 <details>
 <summary>Solid Principles In PHP</summary>
 
 - 📹 [SOLID Principles - Mohamed Yahya](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
-- 📹 [SOLID Principles in PHP Crash course (Arabic)](https://www.youtube.com/playlist?list=PLdYYj2XLw5BmCPq1yW56MpoopAZ1xs6qm)
-- 📹 [SOLID Principles - Mohamed Reda](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
 </details>
 
 <details>
 <summary>PHP Projects </summary>
 
-- 📹 [PHP 5.6 and MySQL 5.7 (Arabic)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
 - 📹 [Building Web Applications Using PHP & MYSQL - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
-- 📹 [OOP PHP Login System For Beginners | OOP PHP & PDO](https://www.youtube.com/watch?v=BaEm2Qv14oU&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh&index=19)
+- 📹 [PHP 5.6 and MySQL 5.7 (Very Comprehensive Course)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
 </details>
 
 <details>
@@ -163,17 +158,15 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 - 📹 [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
 - 📹 [PHP MVC Assignment Tracker Project](https://www.youtube.com/watch?v=Rkg731t47dc&t=1s&ab_channel=DaveGray)
-- 📹 [Getting to know the basics - English](https://www.youtube.com/watch?v=q0JhJBYi4sw&ab_channel=QuickProgramming) 
+- 📹 [PHP MVC Framework from scratch (Important Intro to Laravel)](https://www.youtube.com/watch?v=q0JhJBYi4sw&ab_channel=QuickProgramming) 
 </details>
 
 <details>
 <summary>Php - APIs</summary>
 
 &nbsp; **Introduction to apis**
-- 📹 [What is an API](https://www.youtube.com/watch?v=s7wmiS2mSXY&ab_channel=MuleSoftVideos)
 - 📹 [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
 - 📹 [APIs | REST | REST APIs Demystified](https://www.youtube.com/watch?v=FOZtRzY5x8E)
-- 📹 [REST API Crash Course - Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)
 
 &nbsp; **Apis in PHP**
 - 📹 [API (Arabic)](https://youtube.com/playlist?list=PLe_UJpVeP8qC19dcR1mgb6Uad2SRrtfmL)
