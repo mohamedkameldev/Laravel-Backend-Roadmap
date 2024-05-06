@@ -442,24 +442,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 ## Hack Your Career: 
 
-- #### Hunting your First Job: 
-
-    - 📹 [How to hunt your job or Intern (Online Session)](https://www.youtube.com/watch?v=WMOBYOeJAfg)
-    - 📹 [How to Get a Developer Job even in This Economy [Full Course]](https://www.youtube.com/watch?v=6nz8GXjxiHg)
-    - 📖 [Ahmed Metwally's Book - دليل الموظف المستجد](https://metwallylabs.com/dalelmozaf.html)
-    - 📹 [Career Development (Arabic)](https://www.youtube.com/playlist?list=PLux-0CbBEEvClyo4ryQmJUe0JG2gGfVbF)
-    - 📹 [14 Habits of Highly Productive Developers (Arabic)](https://www.youtube.com/watch?v=Ll6KIN5fH10)
-    - 📹 [Upwork Course For Freelance (Arabic)](https://www.youtube.com/playlist?list=PLoIhaRu2H2ZOzdvZdcikvn45YzK62gUix)
-    - 📹 [How to join FAANG (Arabic)](https://www.youtube.com/playlist?list=PLJYBTsbldfv-pu1n_qDgcAgxnC6X-q3jf)
-    
-
-- #### Interview Questions: 
-    - 📹 [Software Engineering Full Mock Interview - freeCodeCamp](https://www.youtube.com/watch?v=1qw5ITr3k9E&t=3613s)
-    - 🖇️ [Backend Interview Questions - Fullstack Cafe](https://www.fullstack.cafe/blog/backend-developer-interview-questions)
-    - 🖇️ [Laravel Interview Questions - Guru99](https://www.guru99.com/laravel-interview-questions.html)
-    - 🖇️ [Laravel Interview Questions - Java Point](https://www.javatpoint.com/laravel-interview-questions)
-    - 🖇️ [Laravel Interview Questions - hackr.io](https://hackr.io/blog/top-laravel-interview-questions-and-answers)
-
 - #### Resume & CV: 
 
     ##### Harvard resources: 
@@ -471,6 +453,21 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     ##### Websites
     - 🖇️ [A GOOD Resume - Career CUP](https://www.careercup.com/resume)
     - 🖇️ [InterviewBit: Coding Interview Questions](https://www.interviewbit.com/)
+
+- #### Hunting your First Job: 
+
+    - 📹 [How to hunt your job or Intern (Online Session)](https://www.youtube.com/watch?v=WMOBYOeJAfg)
+    - 📹 [14 Habits of Highly Productive Developers (Arabic)](https://www.youtube.com/watch?v=Ll6KIN5fH10)
+    - 📹 [Career Development (Arabic)](https://www.youtube.com/playlist?list=PLux-0CbBEEvClyo4ryQmJUe0JG2gGfVbF)
+    - 📖 [Ahmed Metwally's Book - دليل الموظف المستجد](https://metwallylabs.com/dalelmozaf.html)
+
+- #### Interview Questions: 
+    - 🖇️ [Backend Interview Questions - Fullstack Cafe](https://www.fullstack.cafe/blog/backend-developer-interview-questions)
+    - 🖇️ [Laravel Interview Questions - Guru99](https://www.guru99.com/laravel-interview-questions.html)
+    - 🖇️ [Laravel Interview Questions - Java Point](https://www.javatpoint.com/laravel-interview-questions)
+    - 🖇️ [Laravel Interview Questions - hackr.io](https://hackr.io/blog/top-laravel-interview-questions-and-answers)
+    - 📹 [Software Engineering Full Mock Interview - freeCodeCamp](https://www.youtube.com/watch?v=1qw5ITr3k9E&t=3613s)
+
 
 - #### Be Updated With Laravel: 
     - [List of People to Follow](https://laraveldaily.com/people-to-follow)
