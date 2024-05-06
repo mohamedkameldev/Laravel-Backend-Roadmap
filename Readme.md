@@ -58,8 +58,8 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 #### 03. Javascript & Ajax & JSON :
 - 📹 [JavaScript - freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- 📹 [AJAX Crash Course - English](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
-- 📹 [JSON Crash Course - English](https://www.youtube.com/watch?v=wI1CWzNtE-M)
+- 📹 [AJAX Crash Course](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
+- 📹 [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
 
 #### 04. BootStrap:
 - 📹 [Bootstrap 5 - Elzero ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
@@ -100,7 +100,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <details>
 <summary>Web Development Overview</summary>
 
-- 📹 [Eyad Hamza, CIS - Backend Group Video Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
+- 📹 [Eyad Hamza - Backend Group Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 - 📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
 </details>
 
@@ -112,7 +112,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 #### 01. Introduction to Data Bases:
 - 📹 [Fundamentals of Database Systems - الدسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
-- 📹 [Database Fundamentals - Mahara Tech (Arabic)](https://maharatech.gov.eg/course/view.php?id=740)
+- 📹 [Database Fundamentals - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=740)
 
 #### 02. MySql:
 - 📹 [MySQL 5 Essential Training - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
@@ -169,7 +169,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📹 [APIs | REST | REST APIs Demystified](https://www.youtube.com/watch?v=FOZtRzY5x8E)
 
 &nbsp; **Apis in PHP**
-- 📹 [API (Arabic)](https://youtube.com/playlist?list=PLe_UJpVeP8qC19dcR1mgb6Uad2SRrtfmL)
+- 📹 [API using PHP](https://youtube.com/playlist?list=PLe_UJpVeP8qC19dcR1mgb6Uad2SRrtfmL)
 - 📹 [REST API with PHP - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
 </details>
 
@@ -230,17 +230,26 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <details>
 <summary>Laravel Basics</summary>
 
-- 📹 [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
-- 📹 [Laravel Basics - Building a Blog Website (Arabic)](https://www.youtube.com/watch?v=Q4z6U23cTVc)
+- 📹 [Laravel Basics - Building a Blog Website](https://www.youtube.com/watch?v=Q4z6U23cTVc)
+- 📹 [PHP Laravel 9 Course: Multi-Vendor Store Example (Recommended)](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)s
 - 📹 [laravel 8 from scratch (Recommended)](https://laracasts.com/series/laravel-8-from-scratch)
 - 📖 [Laravel: Up & Running, 3rd Edition - Oreilly (Recommended)](https://www.oreilly.com/library/view/laravel-up/9781098153250/)
 </details>
 
 <details>
+<summary>Laravel APIs</summary>
+
+- 📹 [Laravel API Crash Course](https://www.youtube.com/watch?v=xvqPEEpRBJ4&list=LL&index=2&t=11s)
+- 📹 [Creating a Laravel API](https://www.youtube.com/watch?v=mgdMeXkviy8)
+- 📹 [Authenticating a Laravel API](https://www.youtube.com/watch?v=TTK8uQOjpT0)
+- 📹 [Laravel API & Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s&ab_channel=TraversyMedia)
+</details>
+
+<details>
 <summary>Laravel Projects</summary>
 
-- 📹 [Laravel workshop (Arabic)](https://www.youtube.com/playlist?list=PLnls71Jg2COcJ2rw3wYlDEYSqMvFJBCZY)
-- 📹 [PHP Laravel 9 Course: Multi-Vendor Store Example (Arabic - Recommended)](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
+- 📹 [Laravel workshop](https://www.youtube.com/playlist?list=PLnls71Jg2COcJ2rw3wYlDEYSqMvFJBCZY)
+- 📹 [Laravel MentorSHIP: Travel API](https://www.youtube.com/playlist?list=PLdXLsjL7A9k2utMAieXUnUP8zyxaDA3mP)
 </details>
 
 <details>
@@ -262,41 +271,24 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📃 [Laravel Orchid](https://orchid.software/en/)
 - 📹 [Laravel Filament Full Tutorial](https://www.youtube.com/playlist?list=PL6tf8fRbavl3lxHRw44aKyW0Hq2IXmxGv)
 - 📹 [Laravel Filament Roles and Permissions Full Tutorial](https://www.youtube.com/playlist?list=PL6tf8fRbavl2oguMj5NSrQXhsd6ztc8_O)
-- 📹 [FilamentDaily Channel - Filament tips](https://youtube.com/@FilamentDaily?si=14cB-0bj656aXwiX)  
-</details>
-
-<details>
-<summary>Laravel APIs</summary>
-
-- 📹 [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
-- 📹 [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
-- 📹 [Laravel API & Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s&ab_channel=TraversyMedia)
-- 📹 [Laravel API Crash Course](https://www.youtube.com/watch?v=xvqPEEpRBJ4&list=LL&index=2&t=11s)
-</details>
-
-<details>
-<summary>Laravel API Project</summary>
-
-- 📹 [Laravel MentorSHIP: Travel API](https://www.youtube.com/playlist?list=PLdXLsjL7A9k2utMAieXUnUP8zyxaDA3mP)
 </details>
 
 <details>
 <summary>API Documentation & Tools</summary>
 
-- 📹 [Postman - 1](https://www.youtube.com/watch?v=XNVo9WkCoak&t=312s)
-- 📹 [Postman - 2](https://www.youtube.com/watch?v=d2WAKIKpKlE)
+- 📹 [How to Document APIs using Postman](https://www.youtube.com/watch?v=d2WAKIKpKlE)
+- 📹 [API Documentation | The Exploratory](https://www.youtube.com/watch?v=XNVo9WkCoak&t=312s)
 </details>
 
 <details>
 <summary>Laravel Testing</summary>
 
-- 📹 [Test Driven Laravel](https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y)
-- 📹 [Laravel Test-driven Development (Arabic)](https://www.youtube.com/playlist?list=PLt5zOdAXo16ADTziE2W67qJgTOgfAOEqi)
 - 📹 [Laravel Testing for Beginners (Laravel Daily)](https://www.youtube.com/playlist?list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp)
+- 📹 [Laravel Test-driven Development (Arabic)](https://www.youtube.com/playlist?list=PLt5zOdAXo16ADTziE2W67qJgTOgfAOEqi)
+- 📹 [Test Driven Laravel](https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y)
 </details>
 
 #### 05. Deploying a Laravel Project: 
-- 📹 [How to Build and Deploy a Laravel App](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=4)
 - 📹 [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
 - 📹 [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4) 
 
@@ -350,15 +342,11 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📖 [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
 - 📖 [PHP Object-Oriented Solutions](https://www.amazon.com/gp/product/1430210117/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430210117&linkCode=as2&tag=tech4sky-20)
 
-#### 08. More on SOLID Principles: 
-- 📹 [SOLID Principles In PHP (Arabic - Paid)](https://www.udemy.com/course/solid-principles-in-php/)
-- 📹 [SOLID design principles in PHP & Laravel](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbWsspx0ABrsWl6ENnLEq9AH)
+#### 08. More on SOLID Principles:
 - 📄 [SOLID Article - Digital Ocean](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 #### 09. More on Design Patterns:
-- 📹 [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 - 📖 [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view)
-- 📹 [Laravel software principles and design patterns course (Arabic)](https://www.youtube.com/playlist?list=PLdRIeXQFHrBJ-ciNEDF-KEtGXbAC7cJ_v)
 
 #### 10. More On Laravel: 
 <details>
@@ -412,7 +400,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 #### 02. Operating Systems: 
 - 📹 [ITI (Operating Systems) - DR Mohamed Handosa](https://www.youtube.com/playlist?list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV)  
 - 📹 [Operating Systems Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)  
-- 📹 [Operating Systems (Arabic)](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
+- 📹 [Operating Systems](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
 
 #### 03. CI/CD:
 - 📹 [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)        
@@ -426,16 +414,15 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📹 [AWS - FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) 
 
 #### 06. Distributed Systems:
-- 📹 [Distributed Systems (Ahmed Soliman)](https://www.youtube.com/playlist?list=PLald6EODoOJW3alE1oPAkGF0bHZkPIeTK)
+- 📹 [Distributed Systems University of Cambridge (Recommended)](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - 📹 [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-- 📹 [Distributed Systems University of Cambridge - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - 📄 [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
 
 #### 07- Designing Data-Intensive Applications: 
-- 📖 [Designing Data-Intensive Applications)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- 📹 [Designing Data Intensive Applications (Arabic)](https://www.youtube.com/playlist?list=PLUPAWTeBzOjOKqcdVv11XSjcPRbXMpGtg)  
-- 📹 [Designing data intensive applications (Arabic) ](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)  
-- 📹 [Designing data intensive applications chapter summary playlist - English ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
+- 📹 [Designing Data Intensive Applications](https://www.youtube.com/playlist?list=PLUPAWTeBzOjOKqcdVv11XSjcPRbXMpGtg)  
+- 📹 [Designing data intensive applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)  
+- 📹 [Designing data intensive applications summary playlist - English ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
+- 📖 [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   
 #### 08- System Design: 
 - 📖 [Clean Architecture Book](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
