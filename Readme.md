@@ -46,8 +46,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 ---
 
-<br>
-
 ## Entry Level:
 
 <details>
@@ -138,10 +136,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 ---
 
-<br>
-
 ## Beginner Level: 
-
 
 <details>
 <summary>01. Introduction to Data Bases</summary>
@@ -157,7 +152,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📹 [MySQL 5 Essential Training - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
 - 📖 [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
 </details>
-
 
 
 <details>
@@ -210,7 +204,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 </details>
 
 
-
 > :bulb: Your Task Through the 2 next courses is To Implement what you learn using **PHP**.
 <details>
 <summary>04. DataStructures</summary>
@@ -219,14 +212,14 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📹 [Data Structures - Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 </details>
 
+
+<details>
 <summary> 05. Algorithms</summary>
 
 - 📖 [Grokking Algorithms - Entry Level](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 </details>
 
 ---
-
-<br>
 
 ## Intermediate Level: 
 
