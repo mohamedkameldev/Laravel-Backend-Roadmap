@@ -94,8 +94,18 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <details>
 <summary>06. Git & Github</summary>
 
+- **Git Basics:**
+- 📹 [git and github practical course - كورس تطبيقي عن الجيت](https://www.udemy.com/course/git-and-github-practical-course/?couponCode=LEADERSALE24B)
 - 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 - 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)
+
+- **Mastering Git:**
+- 📹 [Mastering Git & GitHub in real work (crash course)](https://www.youtube.com/watch?v=dFUQRH9zAPE&ab_channel=AmrRizk)
+- 📹 [Mastering Git](https://www.youtube.com/playlist?list=PLtxOBbrOOPH4zeJLOdRNrP4pGft2IfMgo)
+- 📹 [Git Advanced](https://www.youtube.com/playlist?list=PLDSsH9x1gRyHlHT1gizpNbGqAUpit77XH)
+
+
+- **Books:**
 - 📖 [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
 - 📖 [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
 </details>
@@ -175,44 +185,55 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 - **PHP - Basics:**
     - 📹 [PHP - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
-    - 📹 [PHP For Beginners Laracasts (Recommended)](https://laracasts.com/series/php-for-beginners-2023-edition)
-
-- **PHP Beginner projects:**
-    - 📹 [PHP registration form & validation](https://youtu.be/V5sJ76T3mWg)
-    - 📹 [Create MySql Notes App](https://youtu.be/DOsuFRnBqLU)
+    - 📹 [PHP - Laracasts (Recommended)](https://laracasts.com/series/php-for-beginners-2023-edition)
+    - 📹 [PHP project - Create MySql Notes App](https://youtu.be/DOsuFRnBqLU)
+    - 📹 [PHP project - registration form & validation](https://youtu.be/V5sJ76T3mWg)
+    - 📹 [PHP project - How To Create A Login System](https://www.youtube.com/watch?v=gCo6JqGMi30)
 
 - **PHP - OOP:**
     - 📹 [OOP - Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+    - 📹 [OOP - Sec Theater](https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1)
     - 📹 [OOP - Dani Krossing (Recommended)](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) 
+    - 📹 [OOP project - Build Shopping Cart with OOP | PHP OOP Project](https://www.youtube.com/watch?v=1Ip7_hdSqzY)
+    - 📹 [OOP project - How To Create A OOP PHP Login System](https://www.youtube.com/watch?v=BaEm2Qv14oU)
+    - 📹 [OOP project - Building Web Applications Using - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
+    - 📹 [OOP project - Build a CMS using PHP OOP - project tutorial (Advanced)](https://www.youtube.com/playlist?list=PLL4sNmZle1wBauJ1Xi87AQYRmu4n3Vaq8)
+    - 📹 [OOP projects - Many Small Projects](https://www.youtube.com/playlist?list=PLSiLeKadTQ7m_Pf2jFA-6NKIJPas1HU-P)
 
 - **Solid Principles In PHP:**
     - 📹 [SOLID Principles - Mohamed Yahya](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
-
-- **PHP Projects:**
-    - 📹 [Building Web Applications Using PHP & MYSQL - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
-    - 📹 [PHP 5.6 and MySQL 5.7 (Very Comprehensive Course)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
+    - 📹 [SOLID Principles in PHP - Ramy Hakam](https://www.youtube.com/playlist?list=PLdYYj2XLw5BmCPq1yW56MpoopAZ1xs6qm)
+    - 📹 [SOLID Principles - Mohammed Reda](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
+    - 📹 [SOLID Principles - QiroLab](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbWsspx0ABrsWl6ENnLEq9AH)
 
 - **PHP - MVC:**
     - 📹 [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
     - 📹 [PHP MVC Assignment Tracker Project](https://www.youtube.com/watch?v=Rkg731t47dc&t=1s&ab_channel=DaveGray)
+    - 📹 [Build PHP MVC Framework (Important Intro to Laravel)](https://www.youtube.com/playlist?list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1) 
     - 📹 [PHP MVC Framework from scratch (Important Intro to Laravel)](https://www.youtube.com/watch?v=q0JhJBYi4sw&ab_channel=QuickProgramming) 
 
 - **Php - APIs:**
     - **Introduction to apis**
+        - 📹 [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+        - 📹 [How to use an API (Full Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
         - 📹 [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
         - 📹 [APIs | REST | REST APIs Demystified](https://www.youtube.com/watch?v=FOZtRzY5x8E)
 
     - **Apis in PHP**
         - 📹 [API using PHP](https://youtube.com/playlist?list=PLe_UJpVeP8qC19dcR1mgb6Uad2SRrtfmL)
+        - 📹 [PHP REST API From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo)
         - 📹 [REST API with PHP - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
 
 - **PHP - PDO:**
     - 📹 [PHP Data Object (PDO) (Arabic)](https://www.youtube.com/playlist?list=PLZA0Ty4MhTp7_hNYmR3_DB6DlIxY--B4k)
     
 - **PHP - Testing:**
-    - 📹 [PHPUnit Testing](https://www.youtube.com/playlist?list=PLe30vg_FG4OTsFRc1eWppZfYwZdMlLuhE)
+    - 📹 [PHPUnit Testing (Arabic)](https://www.youtube.com/playlist?list=PL6dOx0c_MWg4ynUi-cdxX80o_w3kzh1un)
+    - 📹 [PHPUnit Testing (English)](https://www.youtube.com/playlist?list=PLe30vg_FG4OTsFRc1eWppZfYwZdMlLuhE)
+    - 📹 [Unit testing with PHPUnit](https://www.youtube.com/playlist?list=PLfdtiltiRHWGXSggf05W-pJbD47-_d8bJ)
 
 - **PHP - Security:**
+    - 📹 [PHP Security](https://www.youtube.com/playlist?list=PLfdtiltiRHWFsPxAGO-SVPGhCbCwKWF_N)
     - 📹 [Secure Your PHP Web Application - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAypWmEHEy3awR6Ek9sUe5ZS)
     - 📹 [PHP website security & Hacking prevention (English)](https://www.youtube.com/playlist?list=PLY3j36HMSHNVaHbm5gf302PjGAmYZKZv1)
     - 📹 [TheNewBaghdad - كيف تهكر موقع الكتروني](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3kbFivlWbtoDCNjo4qRAZd)
@@ -221,7 +242,35 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>05. Data Structures</summary>
+<summary>05. Advanced PHP</summary>
+
+- **PHP - Comprehensive:**
+  > The next tutorials are Very Comprehensive, and contain advanced informations:
+    - 📹 [Learn PHP The Right Way](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+    - 📹 [PHP 5.6 and MySQL 5.7](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
+    - 📹 [PHP Tutorial Website](https://www.phptutorial.net/)
+
+- **PHP - Working With JSON Data:**
+    - 📹 [Working With JSON Data & PHP](https://www.youtube.com/playlist?list=PLylMDDjFIp1Ai0nITV8-e1kr-IeOk7Qt2)
+
+- **PHP - PSR:**
+    - 📹 [PHP PSR](https://www.youtube.com/playlist?list=PLxmMgFQn_JhIo1jysxaMOohDrZB37yCVH)
+    - 📹 [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+
+- **PHP - Doctrine ORM :**
+    - 📹 [Doctrine ORM](https://www.youtube.com/playlist?list=PLQH1-k79HB38sxQrZ7OWalANJchHrP3AQ)
+
+- **PHP - payment gatway integration:**
+    - 📹 [PHP Payment Gateway Integration](https://www.youtube.com/playlist?list=PL6u82dzQtlfta0n913Tt0Ily2mUOdVbmH)
+
+- **GraphQL API in PHP:**
+    - 📹 [Building a GraphQL API in PHP with GraphQLite](https://www.youtube.com/watch?v=ieX7CBjxxL4)
+
+</details>
+
+
+<details>
+<summary>06. Data Structures</summary>
 
 > :bulb: While learning Data Structures and Algorithms, implement what will you learn using PHP **PHP**.
 - 📹 [Data Structures - Dr. Waleed Youssef (Recommended)](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
@@ -230,7 +279,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary> 06. Algorithms</summary>
+<summary> 07. Algorithms</summary>
 
 - 📖 [Grokking Algorithms - Entry Level](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 </details>
@@ -303,6 +352,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [Laravel Filament Roles and Permissions Full Tutorial](https://www.youtube.com/playlist?list=PL6tf8fRbavl2oguMj5NSrQXhsd6ztc8_O)
 
 - **API Documentation & Tools:**
+    - 📹 [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
     - 📹 [How to Document APIs using Postman](https://www.youtube.com/watch?v=d2WAKIKpKlE)
     - 📹 [API Documentation | The Exploratory](https://www.youtube.com/watch?v=XNVo9WkCoak&t=312s)
 
