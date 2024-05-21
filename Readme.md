@@ -95,6 +95,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 - 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 - 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)  
+<br>
 &nbsp; and for extra Reading
 - 📖 [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
 - 📖 [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
@@ -202,7 +203,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [TheNewBaghdad - كيف تهكر موقع الكتروني](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3kbFivlWbtoDCNjo4qRAZd)
 
 </details>
-
 
 
 <details>
@@ -433,52 +433,89 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 ## Advanced Level: 
 
-#### 01. Networking: 
+<details>
+<summary>01. Networking</summary>
+
 - 📹 [Networks (Arabic)](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp) 
 - 📹 [CCNA 200-301 - CCNA v7.02 By (Arabic)](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp)  
+</details>
 
-#### 02. Operating Systems: 
+
+<details>
+<summary>02. Operating Systems</summary>
+
 - 📹 [ITI (Operating Systems) - DR Mohamed Handosa](https://www.youtube.com/playlist?list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV)  
 - 📹 [Operating Systems Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)  
 - 📹 [Operating Systems](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
+</details>
 
-#### 03. CI/CD:
-- 📹 [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)        
 
-#### 04. Docker:
+<details>
+<summary>03. CI/CD</summary>
+
+- 📹 [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn) 
+</details>
+
+
+<details>
+<summary>04. Docker</summary>
+
 - 📹 [Docker - Free Code Camp - English](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
 - 📹 [Docker - TechWorld with Nana - English](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
-- 📹 [Docker Practical Course - Arabic](https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)       
+- 📹 [Docker Practical Course - Arabic](https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)   
+</details>
 
-#### 05. Cloud Basics:
+
+<details>
+<summary>05. Cloud Basics</summary>
+
 - 📹 [AWS - FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) 
+</details>
 
-#### 06. Distributed Systems:
+
+<details>
+<summary>06. Distributed Systems</summary>
+
 - 📹 [Distributed Systems University of Cambridge (Recommended)](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - 📹 [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - 📄 [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
+</details>
 
-#### 07- Designing Data-Intensive Applications: 
+
+<details>
+<summary>07. Designing Data-Intensive Applications</summary>
+
 - 📹 [Designing Data Intensive Applications](https://www.youtube.com/playlist?list=PLUPAWTeBzOjOKqcdVv11XSjcPRbXMpGtg)  
 - 📹 [Designing data intensive applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)  
 - 📹 [Designing data intensive applications summary playlist - English ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
 - 📖 [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-  
-#### 08- System Design: 
+</details>
+
+
+<details>
+<summary>08. System Design</summary>
+
 - 📖 [Clean Architecture Book](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - 📖 [Introduction to System Design](https://www.amazon.com/Introduction-System-Design-Interviews-Understand-ebook/dp/B0983S1HSZ)
 - 📹 [System Design interview (Arabic)](https://www.youtube.com/playlist?list=PLkzDzmo9y3VGQRWG-VPysJVRj3Q1YV0ry)
 - 📖 [Introduction to System Design: Crack System Design Interviews](https://www.amazon.com/Introduction-System-Design-Interviews-Understand-ebook/dp/B0983S1HSZ)
+</details>
 
-#### 09. Web Application Architecture:
+
+<details>
+<summary>09. Web Application Architecture</summary>
+
 - 📖 [Advanced Web Application Architecture](https://matthiasnoback.nl/book/advanced-web-application-architecture/)
+</details>
 
-#### 10. Web Application Security:
+
+<details>
+<summary>10. Web Application Security</summary>
+
 - 📖 [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
+</details>
 
 ---
-
-<br>
 
 ## Hack Your Career: 
 
