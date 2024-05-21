@@ -52,6 +52,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>01. Html</summary>
 
 - 📹  [HTML - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+- 📹  [HTML - FreeCodeCamp crash course](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org)
 </details>
 
 
@@ -59,39 +60,39 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>02. CSS</summary>
 
 - 📹  [CSS - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+- 📹  [CSS - FreeCodeCamp crash course](https://www.youtube.com/watch?v=ieTHC78giGQ&t=4078s&ab_channel=freeCodeCamp.org)
+- 📹  [CSS - TraversyMedia crash course](https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia)
 </details>
 
 
 <details>
 <summary>03. Javascript</summary>
 
-- 📹 [JavaScript - freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- 📹 [JavaScript - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+- 📹 [JavaScript - FreeCodeCamp crash course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- 📹 [dive into AJAX with Vanilla JS](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
+- 📹 [how to create JSON objects and arrays](https://www.youtube.com/watch?v=wI1CWzNtE-M&ab_channel=TraversyMedia)
 </details>
 
 
 <details>
-<summary>04. Ajax</summary>
+<summary>04. Tailwind</summary>
 
-- 📹 [AJAX Crash Course](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
+- 📹 [Learn Tailwind CSS - FreeCodeCamp](https://www.youtube.com/watch?v=ft30zcMlFao&ab_channel=freeCodeCamp.org)
+- 📹 [Tailwind Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME&ab_channel=TraversyMedia)
+- 📹 [Tailwind Project From Scratch](https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia)
 </details>
 
 
 <details>
-<summary>05. JSON</summary>
+<summary>05. Intro to Vue.js</summary>
 
-- 📹 [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
+- 📹 [Learn Vue.js In Arabic - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw)
 </details>
 
 
 <details>
-<summary>06. Bootstrap</summary>
-
-- 📹 [Bootstrap 5 - Elzero ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
-</details>
-
-
-<details>
-<summary>07. Git & Github</summary>
+<summary>06. Git & Github</summary>
 
 - 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 - 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)
@@ -101,10 +102,12 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>08. Basic Network Concepts</summary>
+<summary>07. Basic Network Concepts</summary>
 
-- **The Internet and the Web**
+- **What is the Internet**
     - 📹 [How does the INTERNET work?](https://youtu.be/x3c1ih2NJEg)
+
+- **What is the Web**
     - 📹 [How The Web Works - The Big Picture](https://youtu.be/hJHvdBlSxug)
     - 📹 [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk&t=88s)
 
@@ -114,20 +117,16 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - **Http Protocol**
     - 📹 [The Http and the Web | Http Explained | Request-Response Cycle](https://www.youtube.com/watch?v=eesqK59rhGA)
     - 📹 [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
+- **Be aware with these differentiations**
+    - 📹 [The Internet vs. The Web](https://www.youtube.com/watch?v=CX_HyY3kbZw)
+    - 📹 [Web pages, Websites, and Web Applications](https://www.youtube.com/watch?v=ylbQrYhfa18)
+    - 📹 [URIs, URLs, and URNs | Difference between URI and URL](https://www.youtube.com/watch?v=vpYct2npKD8)
 </details>
 
 
 <details>
-<summary>09. Be aware with these differentiations</summary>
-
-- 📹 [The Internet vs. The Web](https://www.youtube.com/watch?v=CX_HyY3kbZw)
-- 📹 [Web pages, Websites, and Web Applications](https://www.youtube.com/watch?v=ylbQrYhfa18)
-- 📹 [URIs, URLs, and URNs | Difference between URI and URL](https://www.youtube.com/watch?v=vpYct2npKD8)
-</details>
-
-
-<details>
-<summary>10. Web Development Overview(Optional)</summary>
+<summary>08. Web Development Overview(Optional)</summary>
 
 - 📹 [Eyad Hamza - Backend Group Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 - 📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
