@@ -5,9 +5,9 @@
 | Level								         |Table of Contents   |
 |:------------------------------------------:|--------------------|
 |🔗 [**Entry**](#entry-level)	             |HTML - CSS - Javascript & Ajax & JSON - Tailwind - Git & Github - Basic Concepts - Web Development Overview - Browser Dev Tools|
-|🔗 [**Beginner**](#beginner-level)		     |Intro to Networks - Intro to DataBase - MySql - PHP (Basics - OOP - Solid Principles - MVC - APIs - PDO - Testing - Security - Projects - Advanced) - Data Structures - Algorithms|
-|🔗 [**Intermediate**](#intermediate-level)  |Software Engineering Concepts - UML - Design Patterns - Laravel (Basics - Projects - APIs - Admin Panels - Testing) - Deploying a Laravel Project - General Topics To Be Aware|
-|🔗 [**Mastering**](#mastering-level)	     |DataBase - Mysql - Master Your Editor - Master Your Code - Algorithms & Data Structures - More on PHP - OOP - SOLID Principles - Design Patterns - More on Laravel|
+|🔗 [**Beginner**](#beginner-level)		     |Intro to Networks - Intro to DataBase - MySql - PHP (Basics - OOP - Projects - Solid Principles - MVC - APIs - PDO - Testing - Security - Advanced) - Data Structures - Algorithms|
+|🔗 [**Intermediate**](#intermediate-level)  |Software Engineering Concepts - UML - Design Patterns - Laravel (Basics - APIs - Projects - Admin Panels - Testing - Deployment)- Important Topics To Be Aware|
+|🔗 [**Mastering**](#mastering-level)	     | **Master Your Knowledge in:** DataBase - Mysql - Your Editor - Codeing - Algorithms & Data Structures - PHP - OOP - SOLID Principles - Design Patterns - Laravel|
 |🔗 [**Advanced**](#advanced-level)	         |Networking - Operating Systems - CI/CD - Docker - Cloud Basics - Distributed Systems - Designing Data Intensive Applications - System Design - Web Architecture - Web Security|
 |🔗 [**Hack Your Career**](#hack-your-career)|Hunting your First Job - Laravel Interview Questions - Build your Resume - Be Updated|
 
@@ -184,15 +184,15 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 🖇️ [PHP Tutorial Website - Greate Tutorial](https://www.phptutorial.net/)
 
 - **PHP - Projects:**
-    - 📹 [PHP project - Create MySql Notes App](https://youtu.be/DOsuFRnBqLU)
-    - 📹 [PHP project - registration form & validation](https://youtu.be/V5sJ76T3mWg)
-    - 📹 [PHP project - How To Create A Login System](https://www.youtube.com/watch?v=gCo6JqGMi30)
+    - 📹 [Create MySql Notes App](https://youtu.be/DOsuFRnBqLU)
+    - 📹 [registration form & validation](https://youtu.be/V5sJ76T3mWg)
+    - 📹 [How To Create A Login System](https://www.youtube.com/watch?v=gCo6JqGMi30)
 
 - **PHP - OOP Projects:**
-    - 📹 [OOP project - Build Shopping Cart with OOP | PHP OOP Project](https://www.youtube.com/watch?v=1Ip7_hdSqzY)
-    - 📹 [OOP project - How To Create A OOP PHP Login System](https://www.youtube.com/watch?v=BaEm2Qv14oU)
-    - 📹 [OOP project - Building Web Applications Using - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
-    - 📹 [OOP project - Build a CMS using PHP OOP - project tutorial (Advanced)](https://www.youtube.com/playlist?list=PLL4sNmZle1wBauJ1Xi87AQYRmu4n3Vaq8)
+    - 📹 [Build Shopping Cart with OOP | PHP OOP Project](https://www.youtube.com/watch?v=1Ip7_hdSqzY)
+    - 📹 [How To Create A OOP PHP Login System](https://www.youtube.com/watch?v=BaEm2Qv14oU)
+    - 📹 [Building Web Applications Using - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
+    - 📹 [Build a CMS using PHP OOP - project tutorial (Advanced)](https://www.youtube.com/playlist?list=PLL4sNmZle1wBauJ1Xi87AQYRmu4n3Vaq8)
     - 📹 [OOP projects - Many Small Projects](https://www.youtube.com/playlist?list=PLSiLeKadTQ7m_Pf2jFA-6NKIJPas1HU-P)
     - 📹 [PHP 5.6 and MySQL 5.7 - Full Project with Greate Information](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
 
@@ -231,33 +231,27 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [PHP website security & Hacking prevention (English)](https://www.youtube.com/playlist?list=PLY3j36HMSHNVaHbm5gf302PjGAmYZKZv1)
     - 📹 [TheNewBaghdad - كيف تهكر موقع الكتروني](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3kbFivlWbtoDCNjo4qRAZd)
 
+- **PHP - Advanced Topics (Optional):**
+    - PHP - Working With JSON Data:
+        - 📹 [Working With JSON Data & PHP](https://www.youtube.com/playlist?list=PLylMDDjFIp1Ai0nITV8-e1kr-IeOk7Qt2)
+
+    - PHP - PSR:
+        - 📹 [PHP PSR](https://www.youtube.com/playlist?list=PLxmMgFQn_JhIo1jysxaMOohDrZB37yCVH)
+        - 📹 [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+
+    - PHP - Doctrine ORM :
+        - 📹 [Doctrine ORM](https://www.youtube.com/playlist?list=PLQH1-k79HB38sxQrZ7OWalANJchHrP3AQ)
+
+    - PHP - payment gatway integration:
+        - 📹 [PHP Payment Gateway Integration](https://www.youtube.com/playlist?list=PL6u82dzQtlfta0n913Tt0Ily2mUOdVbmH)
+
+    - GraphQL API in PHP:
+        - 📹 [Building a GraphQL API in PHP with GraphQLite](https://www.youtube.com/watch?v=ieX7CBjxxL4)
 </details>
 
 
 <details>
-<summary>05. Advanced PHP</summary>
-
-- **PHP - Working With JSON Data:**
-    - 📹 [Working With JSON Data & PHP](https://www.youtube.com/playlist?list=PLylMDDjFIp1Ai0nITV8-e1kr-IeOk7Qt2)
-
-- **PHP - PSR:**
-    - 📹 [PHP PSR](https://www.youtube.com/playlist?list=PLxmMgFQn_JhIo1jysxaMOohDrZB37yCVH)
-    - 📹 [PHP Standards Recommendations](https://www.php-fig.org/psr/)
-
-- **PHP - Doctrine ORM :**
-    - 📹 [Doctrine ORM](https://www.youtube.com/playlist?list=PLQH1-k79HB38sxQrZ7OWalANJchHrP3AQ)
-
-- **PHP - payment gatway integration:**
-    - 📹 [PHP Payment Gateway Integration](https://www.youtube.com/playlist?list=PL6u82dzQtlfta0n913Tt0Ily2mUOdVbmH)
-
-- **GraphQL API in PHP:**
-    - 📹 [Building a GraphQL API in PHP with GraphQLite](https://www.youtube.com/watch?v=ieX7CBjxxL4)
-
-</details>
-
-
-<details>
-<summary>06. Data Structures</summary>
+<summary>05. Data Structures</summary>
 
 > :bulb: While learning Data Structures and Algorithms, implement what will you learn using PHP **PHP**.
 - 📹 [Data Structures - Dr. Waleed Youssef (Recommended)](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
@@ -266,7 +260,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary> 07. Algorithms</summary>
+<summary> 06. Algorithms</summary>
 
 - 📖 [Grokking Algorithms - Entry Level](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 - 📖 [Algorithms Unplugged](https://link.springer.com/book/10.1007/978-3-642-15328-0)
@@ -348,19 +342,15 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [Laravel Testing for Beginners (Laravel Daily)](https://www.youtube.com/playlist?list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp)
     - 📹 [Laravel Test-driven Development (Arabic)](https://www.youtube.com/playlist?list=PLt5zOdAXo16ADTziE2W67qJgTOgfAOEqi)
     - 📹 [Test Driven Laravel](https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y)
+
+- **Laravel Deployment:**
+    - 📹 [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
+    - 📹 [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4) 
 </details>
 
 
 <details>
-<summary>05. Deploy Laravel Project</summary>
-
-- 📹 [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
-- 📹 [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4) 
-</details>
-
-
-<details>
-<summary>06. General Topics To Be Aware</summary>
+<summary>05. Important Topics To Be Aware</summary>
 
 - 📹 [Beyond the basics - ما بعد الأساسيات](https://www.youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q)
 </details>
