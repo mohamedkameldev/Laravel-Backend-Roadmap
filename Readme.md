@@ -102,7 +102,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>07. Basic Network Concepts</summary>
+<summary>07. Basic Concepts</summary>
 
 - **What is the Internet**
     - 📹 [How does the INTERNET work?](https://youtu.be/x3c1ih2NJEg)
@@ -126,18 +126,35 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>08. Web Development Overview(Optional)</summary>
+<summary>08. Web Development Overview</summary>
 
-- 📹 [Eyad Hamza - Backend Group Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 - 📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
+</details>
+
+
+<details>
+<summary>09. Browser Dev Tools</summary>
+
+- 📹 [ Beginner's Guide to Using Dev Tools](https://www.youtube.com/watch?v=fxplz32rgEQ)
+- 📹 [ Improve Your Work By Using Google Chrome Dev Tools - Elzero](https://www.youtube.com/watch?v=_IKTGQosYMo)
 </details>
 
 ---
 
 ## Beginner Level: 
 
+
 <details>
-<summary>01. Introduction to Data Bases</summary>
+<summary>01. Introduction to Networks</summary>
+
+- 📹 [Networking for Web Developers](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml)
+- 📹 [Network Fundamentals for Web Developers](https://www.youtube.com/playlist?list=PLCy5RQkQgvf4yaL-AMDO8rpAAi90sWfGl)
+- 📹 [Everything You Need to Know About DNS](https://www.youtube.com/watch?v=27r4Bzuj5NQ)
+</details>
+
+
+<details>
+<summary>02. Introduction to Data Bases</summary>
 
 - 📹 [Fundamentals of Database Systems - الدسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
 - 📹 [Database Fundamentals - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=740)
@@ -145,15 +162,16 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>02. MySql</summary>
+<summary>03. MySql</summary>
 
-- 📹 [MySQL 5 Essential Training - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+- 📹 [SQL vs NoSQL Databases](https://www.youtube.com/watch?v=WWazrq7ZC8E)
+- 📹 [MySQL tutorials || بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2)
 - 📖 [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
 </details>
 
 
 <details>
-<summary>03. PHP</summary>
+<summary>04. PHP</summary>
 
 - **PHP - Basics:**
     - 📹 [PHP - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
@@ -203,16 +221,16 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>04. Data Structures</summary>
+<summary>05. Data Structures</summary>
 
-> :bulb: While learning datastructures and algorithms, implement what will you learn using PHP **PHP**.
+> :bulb: While learning Data Structures and Algorithms, implement what will you learn using PHP **PHP**.
 - 📹 [Data Structures - Dr. Waleed Youssef (Recommended)](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
 - 📹 [Data Structures - Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 </details>
 
 
 <details>
-<summary> 05. Algorithms</summary>
+<summary> 06. Algorithms</summary>
 
 - 📖 [Grokking Algorithms - Entry Level](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 </details>
