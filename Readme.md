@@ -50,56 +50,53 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 ## Entry Level:
 
-#### 01. HTML:
 <details>
-<summary>Html</summary>
+<summary>01. Html</summary>
 
 - 📹  [HTML - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 </details>
 
-#### 02. CSS:
+
 <details>
 
-<summary>CSS</summary>
+<summary>02. CSS</summary>
 
 - 📹  [CSS - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 </details>
 
-#### 03. Javascript & Ajax & JSON :
+
 <details>
 
-<summary>Javascript</summary>
+<summary>03. Javascript</summary>
 
 - 📹 [JavaScript - freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 </details>
 
 <details>
 
-<summary>Ajax</summary>
+<summary>04. Ajax</summary>
 
 - 📹 [AJAX Crash Course](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
 </details>
 
 <details>
 
-<summary>JSON</summary>
+<summary>05. JSON</summary>
 
 - 📹 [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
 </details>
 
 
-#### 04. BootStrap:
 <details>
 
-<summary>Bootstrap</summary>
+<summary>06. Bootstrap</summary>
 
 - 📹 [Bootstrap 5 - Elzero ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
 </details>
 
-#### 05. Git & Github:
 <details>
 
-<summary>Git & Github</summary>
+<summary>07. Git & Github</summary>
 
 - 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 - 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)  
@@ -109,22 +106,21 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 </details>
 
 
-#### 06. Web Development Basics:
 
 <details>
-<summary>Basic Network Concepts</summary>
+<summary>08. Basic Network Concepts</summary>
 
-&nbsp; **The Internet and the Web**
-- 📹 [How does the INTERNET work?](https://youtu.be/x3c1ih2NJEg)
-- 📹 [How The Web Works - The Big Picture](https://youtu.be/hJHvdBlSxug)
-- 📹 [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk&t=88s)
+- **The Internet and the Web**
+    - 📹 [How does the INTERNET work?](https://youtu.be/x3c1ih2NJEg)
+    - 📹 [How The Web Works - The Big Picture](https://youtu.be/hJHvdBlSxug)
+    - 📹 [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk&t=88s)
 
-&nbsp; **The Client Server Architecture**
-- 📹 [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
+- &nbsp; **The Client Server Architecture**
+    - 📹 [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
 
-&nbsp; **Http Protocol**
-- 📹 [The Http and the Web | Http Explained | Request-Response Cycle](https://www.youtube.com/watch?v=eesqK59rhGA)
-- 📹 [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- &nbsp; **Http Protocol**
+    - 📹 [The Http and the Web | Http Explained | Request-Response Cycle](https://www.youtube.com/watch?v=eesqK59rhGA)
+    - 📹 [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 </details>
 
 <details>
