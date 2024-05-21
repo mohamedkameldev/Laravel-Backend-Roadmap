@@ -4,10 +4,10 @@
 
 | Level								         |Table of Contents   |
 |:------------------------------------------:|--------------------|
-|🔗 [**Entry**](#entry-level)	             |HTML  - CSS - Javascript & Ajax & JSON - BootStrap - Git & Github - Web Dev Basics|
-|🔗 [**Beginner**](#beginner-level)		     |Introduction to Data Bases - MySql - PHP (Basics - OOP - Solid Principles - MVC - APIs - PDO - Testing - Security - Projects) - Data Structures - Algorithms|
-|🔗 [**Intermediate**](#intermediate-level)  |Software Engineering Concepts - UML - Design Patterns - Laravel (Basics - Admin Panels - APIs - Testing - Projects) - Deploying a Laravel Project - General Topics To Be Aware|
-|🔗 [**Mastering**](#mastering-level)	     |DataBases - Mysql - Master Your Editor - Master Your Code - Algorithms & Data Structures - More on PHP - OOP - SOLID Principles - Design Patterns - More on Laravel|
+|🔗 [**Entry**](#entry-level)	             |HTML - CSS - Javascript & Ajax & JSON - Tailwind - Git & Github - Basic Concepts - Web Development Overview - Browser Dev Tools|
+|🔗 [**Beginner**](#beginner-level)		     |Intro to Networks - Intro to DataBase - MySql - PHP (Basics - OOP - Solid Principles - MVC - APIs - PDO - Testing - Security - Projects - Advanced) - Data Structures - Algorithms|
+|🔗 [**Intermediate**](#intermediate-level)  |Software Engineering Concepts - UML - Design Patterns - Laravel (Basics - Projects - APIs - Admin Panels - Testing) - Deploying a Laravel Project - General Topics To Be Aware|
+|🔗 [**Mastering**](#mastering-level)	     |DataBase - Mysql - Master Your Editor - Master Your Code - Algorithms & Data Structures - More on PHP - OOP - SOLID Principles - Design Patterns - More on Laravel|
 |🔗 [**Advanced**](#advanced-level)	         |Networking - Operating Systems - CI/CD - Docker - Cloud Basics - Distributed Systems - Designing Data Intensive Applications - System Design - Web Architecture - Web Security|
 |🔗 [**Hack Your Career**](#hack-your-career)|Hunting your First Job - Laravel Interview Questions - Build your Resume - Be Updated|
 
@@ -85,34 +85,27 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>05. Intro to Vue.js</summary>
-
-- 📹 [Learn Vue.js In Arabic - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw)
-</details>
-
-
-<details>
-<summary>06. Git & Github</summary>
+<summary>05. Git & Github</summary>
 
 - **Git Basics:**
-- 📹 [git and github practical course - كورس تطبيقي عن الجيت](https://www.udemy.com/course/git-and-github-practical-course/?couponCode=LEADERSALE24B)
-- 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
-- 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)
+    - 📹 [git and github practical course - كورس تطبيقي عن الجيت](https://www.udemy.com/course/git-and-github-practical-course/?couponCode=LEADERSALE24B)
+    - 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+    - 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 - **Mastering Git:**
-- 📹 [Mastering Git & GitHub in real work (crash course)](https://www.youtube.com/watch?v=dFUQRH9zAPE&ab_channel=AmrRizk)
-- 📹 [Mastering Git](https://www.youtube.com/playlist?list=PLtxOBbrOOPH4zeJLOdRNrP4pGft2IfMgo)
-- 📹 [Git Advanced](https://www.youtube.com/playlist?list=PLDSsH9x1gRyHlHT1gizpNbGqAUpit77XH)
+    - 📹 [Mastering Git & GitHub in real work (crash course)](https://www.youtube.com/watch?v=dFUQRH9zAPE&ab_channel=AmrRizk)
+    - 📹 [Mastering Git](https://www.youtube.com/playlist?list=PLtxOBbrOOPH4zeJLOdRNrP4pGft2IfMgo)
+    - 📹 [Git Advanced](https://www.youtube.com/playlist?list=PLDSsH9x1gRyHlHT1gizpNbGqAUpit77XH)
 
 
 - **Books:**
-- 📖 [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
-- 📖 [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
+    - 📖 [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
+    - 📖 [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
 </details>
 
 
 <details>
-<summary>07. Basic Concepts</summary>
+<summary>06. Basic Concepts</summary>
 
 - **What is the Internet**
     - 📹 [How does the INTERNET work?](https://youtu.be/x3c1ih2NJEg)
@@ -136,14 +129,14 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>08. Web Development Overview</summary>
+<summary>07. Web Development Overview</summary>
 
 - 📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
 </details>
 
 
 <details>
-<summary>09. Browser Dev Tools</summary>
+<summary>08. Browser Dev Tools</summary>
 
 - 📹 [ Beginner's Guide to Using Dev Tools](https://www.youtube.com/watch?v=fxplz32rgEQ)
 - 📹 [ Improve Your Work By Using Google Chrome Dev Tools - Elzero](https://www.youtube.com/watch?v=_IKTGQosYMo)
@@ -164,7 +157,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>02. Introduction to Data Bases</summary>
+<summary>02. Introduction to DataBase</summary>
 
 - 📹 [Fundamentals of Database Systems - الدسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
 - 📹 [Database Fundamentals - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=740)
@@ -184,27 +177,27 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>04. PHP</summary>
 
 - **PHP - Basics:**
-    - 📹 [PHP - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
     - 📹 [PHP - Laracasts (Recommended)](https://laracasts.com/series/php-for-beginners-2023-edition)
+    - 📹 [OOP - Sec Theater](https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1)
+    - 📹 [OOP - Dani Krossing (Recommended)](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) 
+    - 📹 [Learn PHP The Right Way - Very Comprehensive Course](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+    - 🖇️ [PHP Tutorial Website - Greate Tutorial](https://www.phptutorial.net/)
+
+- **PHP - Projects:**
     - 📹 [PHP project - Create MySql Notes App](https://youtu.be/DOsuFRnBqLU)
     - 📹 [PHP project - registration form & validation](https://youtu.be/V5sJ76T3mWg)
     - 📹 [PHP project - How To Create A Login System](https://www.youtube.com/watch?v=gCo6JqGMi30)
 
-- **PHP - OOP:**
-    - 📹 [OOP - Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
-    - 📹 [OOP - Sec Theater](https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1)
-    - 📹 [OOP - Dani Krossing (Recommended)](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) 
+- **PHP - OOP Projects:**
     - 📹 [OOP project - Build Shopping Cart with OOP | PHP OOP Project](https://www.youtube.com/watch?v=1Ip7_hdSqzY)
     - 📹 [OOP project - How To Create A OOP PHP Login System](https://www.youtube.com/watch?v=BaEm2Qv14oU)
     - 📹 [OOP project - Building Web Applications Using - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
     - 📹 [OOP project - Build a CMS using PHP OOP - project tutorial (Advanced)](https://www.youtube.com/playlist?list=PLL4sNmZle1wBauJ1Xi87AQYRmu4n3Vaq8)
     - 📹 [OOP projects - Many Small Projects](https://www.youtube.com/playlist?list=PLSiLeKadTQ7m_Pf2jFA-6NKIJPas1HU-P)
+    - 📹 [PHP 5.6 and MySQL 5.7 - Full Project with Greate Information](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
 
 - **Solid Principles In PHP:**
     - 📹 [SOLID Principles - Mohamed Yahya](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
-    - 📹 [SOLID Principles in PHP - Ramy Hakam](https://www.youtube.com/playlist?list=PLdYYj2XLw5BmCPq1yW56MpoopAZ1xs6qm)
-    - 📹 [SOLID Principles - Mohammed Reda](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
-    - 📹 [SOLID Principles - QiroLab](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbWsspx0ABrsWl6ENnLEq9AH)
 
 - **PHP - MVC:**
     - 📹 [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
@@ -213,13 +206,13 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [PHP MVC Framework from scratch (Important Intro to Laravel)](https://www.youtube.com/watch?v=q0JhJBYi4sw&ab_channel=QuickProgramming) 
 
 - **Php - APIs:**
-    - **Introduction to apis**
+    - Introduction to apis
         - 📹 [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
         - 📹 [How to use an API (Full Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
         - 📹 [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
         - 📹 [APIs | REST | REST APIs Demystified](https://www.youtube.com/watch?v=FOZtRzY5x8E)
 
-    - **Apis in PHP**
+    - Apis in PHP
         - 📹 [API using PHP](https://youtube.com/playlist?list=PLe_UJpVeP8qC19dcR1mgb6Uad2SRrtfmL)
         - 📹 [PHP REST API From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo)
         - 📹 [REST API with PHP - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
@@ -243,12 +236,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 <details>
 <summary>05. Advanced PHP</summary>
-
-- **PHP - Comprehensive:**
-  > The next tutorials are Very Comprehensive, and contain advanced informations:
-    - 📹 [Learn PHP The Right Way](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
-    - 📹 [PHP 5.6 and MySQL 5.7](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
-    - 📹 [PHP Tutorial Website](https://www.phptutorial.net/)
 
 - **PHP - Working With JSON Data:**
     - 📹 [Working With JSON Data & PHP](https://www.youtube.com/playlist?list=PLylMDDjFIp1Ai0nITV8-e1kr-IeOk7Qt2)
@@ -282,6 +269,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary> 07. Algorithms</summary>
 
 - 📖 [Grokking Algorithms - Entry Level](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+- 📖 [Algorithms Unplugged](https://link.springer.com/book/10.1007/978-3-642-15328-0)
 </details>
 
 ---
@@ -321,7 +309,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 - **Laravel Basics:**
     - 📹 [Laravel Basics - Building a Blog Website](https://www.youtube.com/watch?v=Q4z6U23cTVc)
-    - 📹 [PHP Laravel 9 Course: Multi-Vendor Store Example (Recommended)](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)s
+    - 📹 [PHP Laravel 9 Course: Multi-Vendor Store Example (Recommended)](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
     - 📹 [laravel 8 from scratch (Recommended)](https://laracasts.com/series/laravel-8-from-scratch)
     - 📖 [Laravel: Up & Running, 3rd Edition - Oreilly (Recommended)](https://www.oreilly.com/library/view/laravel-up/9781098153250/)
 
@@ -382,7 +370,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 ## Mastering Level: 
 
 <details>
-<summary> 01. Advanced DataBases</summary>
+<summary> 01. Advanced DataBase</summary>
 
 - 📹 [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
 - 📹 [Advanced Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
@@ -482,14 +470,14 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
 
 - **Packages In Laravel:**
-    - **Useful Packages for you**
+    - Useful Packages for you
         - 📹 [Useful laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
         - 📹 [Small Laravel Packages, Big Impact](https://laracasts.com/series/small-laravel-packages-big-impact)
     
-    - **Packages for Testing**
+    - Packages for Testing
         - 📹 [Pest From Scratch - Package for Testing](https://laracasts.com/series/pest-from-scratch)
 
-    - **Biulding your own Package**
+    - Biulding your own Package
         - 📹 [Biulding A Laravel Package](https://www.youtube.com/playlist?list=PLvNu8E-aj20mES_5KuBbBO3oQUjBs_Cxe)
         - 📹 [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
 </details>
@@ -551,8 +539,8 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>07. Designing Data-Intensive Applications</summary>
 
 - 📹 [Designing Data Intensive Applications](https://www.youtube.com/playlist?list=PLUPAWTeBzOjOKqcdVv11XSjcPRbXMpGtg)
-- 📹 [Designing data intensive applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)
-- 📹 [Designing data intensive applications summary playlist - English ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
+- 📹 [Designing Data intensive applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)
+- 📹 [Designing Data intensive applications summary playlist - English ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
 - 📖 [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 </details>
 
