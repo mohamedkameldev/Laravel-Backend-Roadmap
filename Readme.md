@@ -95,7 +95,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 - 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 - 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)  
-> and for extra Reading
+&nbsp; and for extra Reading
 - 📖 [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
 - 📖 [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
 </details>
@@ -182,11 +182,11 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [PHP MVC Framework from scratch (Important Intro to Laravel)](https://www.youtube.com/watch?v=q0JhJBYi4sw&ab_channel=QuickProgramming) 
 
 - **Php - APIs:**
-    - &nbsp; **Introduction to apis**
+    - **Introduction to apis**
         - 📹 [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
         - 📹 [APIs | REST | REST APIs Demystified](https://www.youtube.com/watch?v=FOZtRzY5x8E)
 
-    - &nbsp; **Apis in PHP**
+    - **Apis in PHP**
         - 📹 [API using PHP](https://youtube.com/playlist?list=PLe_UJpVeP8qC19dcR1mgb6Uad2SRrtfmL)
         - 📹 [REST API with PHP - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
 
@@ -204,10 +204,11 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 </details>
 
 
-> :bulb: Your Task Through the 2 next courses is To Implement what you learn using **PHP**.
-<details>
-<summary>04. DataStructures</summary>
 
+<details>
+<summary>04. Data Structures</summary>
+
+> :bulb: While learning datastructures and algorithms, implement what will you learn using PHP **PHP**.
 - 📹 [Data Structures - Dr. Waleed Youssef (Recommended)](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)  
 - 📹 [Data Structures - Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 </details>
@@ -315,95 +316,120 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 ## Mastering Level: 
 
-#### 01. Advanced DataBases: 
+<details>
+<summary> 01. Advanced DataBases</summary>
+
 - 📹 [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
 - 📹 [Advanced Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
 - 📹 [Database Design (Arabic)](https://www.youtube.com/playlist?list=PLkzDzmo9y3VHDFKp7LuXd-FwbefvTL5o0)
 - 📖 [Fundamentals of Database Systems Seventh Edition](https://www.amazon.eg/-/en/Fundamentals-of-Database-Systems/dp/0133970779)
+</details>
 
-#### 02. Intensive Mysql: 
+
+<details>
+<summary>02. Intensive Mysql</summary>
+
 - 📹 [MySQL for Developers In Depth - English ](https://t.co/fYNnXu0nez)
 - 📹 [MySQL Notes for Professionals (Free Book)](https://books.goalkicker.com/MySQLBook/)
+</details>
 
-#### 03. Master Your Editor:
+
+<details>
+<summary>03. Master Your Editor</summary>
+
 - 📹 [VSCode Shortcuts Tips and Tricks](https://www.youtube.com/watch?v=jsZoR1kkq6s&list=PLVVw6ev5GuJ5VOPpPq2Ml-okokq_eQ7Q6) 
 - 📹 [VSCode - The Complete Setup for PHP Development](https://www.youtube.com/watch?v=4zVObKFZ6fA) 
 - 📹 [Setup VSCode for Laravel](https://www.youtube.com/playlist?list=PLDc9bt_00KcJJwc_RUoNZPwA-xGvvCEdA) 
 - 📹 [Mastering VSCode](https://laracasts.com/series/visual-studio-code-for-php-developers) 
 - 📹 [Mastering Phpstorm](https://laracasts.com/series/phpstorm-for-laravel-developers)
+</details>
 
-#### 04. Master your Code: 
+
+<details>
+<summary>04. Master your Code</summary>
+
 - 📖 [Head First Learn To Code](https://github.com/nguyenhoang4875/MyBooksForCode/blob/master/Common_Books/Head_first_series/Head%20First%20Learn%20to%20Code.pdf)
 - 📖 [Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
 - 📖 [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
 - 📖 [Martin Fowler Books](https://martinfowler.com/books/)
+</details>
 
-#### 05. More on Algorithms And Data Structures: 
+
+<details>
+<summary>05. More on Algorithms And Data Structures</summary>
+
 - 📖 [Algorithms Unplugged - More Advanced](https://link.springer.com/book/10.1007/978-3-642-15328-0)
 - 📖 [PHP 7 Data Structures and Algorithms](https://www.amazon.com/PHP-Data-Structures-Algorithms-Implement/dp/178646389X)
 - 📖 [Cracking the Coding Interview](https://www.amazon.eg/-/en/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+</details>
 
-#### 06. More on PHP: 
+
+<details>
+<summary>06. More on PHP</summary>
+
 - 📖 [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
 - 📖 [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
-
 - 📹 [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
 - 📹 [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
 - 📹 [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
 - 📖 [Front Line PHP](https://front-line-php.com/)
+</details>
 
-#### 07. Advanced OOP: 
+
+<details>
+<summary>07. Advanced OOP</summary>
+
 - 📖 [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
 - 📖 [PHP Object-Oriented Solutions](https://www.amazon.com/gp/product/1430210117/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430210117&linkCode=as2&tag=tech4sky-20)
+</details>
 
-#### 08. More on SOLID Principles:
+
+<details>
+<summary>08. More on SOLID Principles</summary>
+
 - 📄 [SOLID Article - Digital Ocean](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+</details>
 
-#### 09. More on Design Patterns:
+
+<details>
+<summary>09. More on Design Patterns</summary>
+
 - 📖 [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view)
-
-#### 10. More On Laravel: 
-<details>
-<summary>Laravel New Versions</summary>
-
-- 📹 [What is New in Laravel 9](https://laracasts.com/series/whats-new-in-laravel-9)
-- 📹 [What is New in Laravel 10](https://laracasts.com/series/whats-new-in-laravel-10)
-- 📹 [What is New in Laravel 11](https://laracasts.com/series/whats-new-in-laravel-11)
 </details>
 
-<details>
-<summary>Laravel Tips & Tricks</summary>
-
-- 📄 [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
-- 📹 [Laravel Tips & Tricks](https://www.youtube.com/playlist?list=PLxxZ9NP6hK8ffg-60wdGMOpF3Y4CvF1dc)
-- 📹 [Laravel Best Practice](https://github.com/alexeymezenin/laravel-best-practices)
-</details>
 
 <details>
-<summary>Advanced Topics In Laravel</summary>
+<summary>10. More On Laravel</summary>
 
-- 📹 [Laravel Advanced Topics](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
-- 📹 [Laravel Exceptions in depth | Arabic](https://www.youtube.com/watch?v=X35cHMq8ZpA)
-- 📹 [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
-</details>
+- **Laravel New Versions:**
+    - 📹 [What is New in Laravel 9](https://laracasts.com/series/whats-new-in-laravel-9)
+    - 📹 [What is New in Laravel 10](https://laracasts.com/series/whats-new-in-laravel-10)
+    - 📹 [What is New in Laravel 11](https://laracasts.com/series/whats-new-in-laravel-11)
 
-<details>
-<summary>Packages In Laravel</summary>
+- **Laravel Tips & Tricks:**
+    - 📄 [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
+    - 📹 [Laravel Tips & Tricks](https://www.youtube.com/playlist?list=PLxxZ9NP6hK8ffg-60wdGMOpF3Y4CvF1dc)
+    - 📹 [Laravel Best Practice](https://github.com/alexeymezenin/laravel-best-practices)
 
-- 📹 [Useful laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
-- 📹 [Small Laravel Packages, Big Impact](https://laracasts.com/series/small-laravel-packages-big-impact)
+- **Advanced Topics In Laravel:**
+    - 📹 [Laravel Advanced Topics](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
+    - 📹 [Laravel Exceptions in depth | Arabic](https://www.youtube.com/watch?v=X35cHMq8ZpA)
+    - 📹 [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
 
-&nbsp; **Packages for Testing**
-- 📹 [Pest From Scratch - Package for Testing](https://laracasts.com/series/pest-from-scratch)
+- **Packages In Laravel:**
+    - **Useful Packages for you**
+        - 📹 [Useful laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
+        - 📹 [Small Laravel Packages, Big Impact](https://laracasts.com/series/small-laravel-packages-big-impact)
+    
+    - **Packages for Testing**
+        - 📹 [Pest From Scratch - Package for Testing](https://laracasts.com/series/pest-from-scratch)
 
-&nbsp; **Biulding your own Package**
-- 📹 [Biulding A Laravel Package](https://www.youtube.com/playlist?list=PLvNu8E-aj20mES_5KuBbBO3oQUjBs_Cxe)
-- 📹 [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
+    - **Biulding your own Package**
+        - 📹 [Biulding A Laravel Package](https://www.youtube.com/playlist?list=PLvNu8E-aj20mES_5KuBbBO3oQUjBs_Cxe)
+        - 📹 [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
 </details>
 
 ---
-
-<br>
 
 ## Advanced Level: 
 
