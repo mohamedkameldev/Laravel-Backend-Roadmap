@@ -51,7 +51,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 ## Entry Level:
 
 <details>
-<summary>01. Html</summary>
+<summary><h4>01. Html</h4></summary>
 
 - 📹  [HTML - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 </details>
@@ -115,16 +115,16 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [How The Web Works - The Big Picture](https://youtu.be/hJHvdBlSxug)
     - 📹 [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk&t=88s)
 
-- &nbsp; **The Client Server Architecture**
+- **The Client Server Architecture**
     - 📹 [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
 
-- &nbsp; **Http Protocol**
+- **Http Protocol**
     - 📹 [The Http and the Web | Http Explained | Request-Response Cycle](https://www.youtube.com/watch?v=eesqK59rhGA)
     - 📹 [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 </details>
 
 <details>
-<summary>Be aware with these differentiations</summary>
+<summary>09. Be aware with these differentiations</summary>
 
 - 📹 [The Internet vs. The Web](https://www.youtube.com/watch?v=CX_HyY3kbZw)
 - 📹 [Web pages, Websites, and Web Applications](https://www.youtube.com/watch?v=ylbQrYhfa18)
@@ -132,7 +132,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 </details>
 
 <details>
-<summary>Web Development Overview</summary>
+<summary>10. Web Development Overview</summary>
 
 - 📹 [Eyad Hamza - Backend Group Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 - 📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
