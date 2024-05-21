@@ -51,14 +51,13 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 ## Entry Level:
 
 <details>
-<summary><h4>01. Html</h4></summary>
+<summary>01. Html</summary>
 
 - 📹  [HTML - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 </details>
 
 
 <details>
-
 <summary>02. CSS</summary>
 
 - 📹  [CSS - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
@@ -66,21 +65,20 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-
 <summary>03. Javascript</summary>
 
 - 📹 [JavaScript - freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 </details>
 
-<details>
 
+<details>
 <summary>04. Ajax</summary>
 
 - 📹 [AJAX Crash Course](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
 </details>
 
-<details>
 
+<details>
 <summary>05. JSON</summary>
 
 - 📹 [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
@@ -88,14 +86,13 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-
 <summary>06. Bootstrap</summary>
 
 - 📹 [Bootstrap 5 - Elzero ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
 </details>
 
-<details>
 
+<details>
 <summary>07. Git & Github</summary>
 
 - 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
@@ -104,7 +101,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📖 [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
 - 📖 [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
 </details>
-
 
 
 <details>
@@ -123,6 +119,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
     - 📹 [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 </details>
 
+
 <details>
 <summary>09. Be aware with these differentiations</summary>
 
@@ -131,8 +128,9 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📹 [URIs, URLs, and URNs | Difference between URI and URL](https://www.youtube.com/watch?v=vpYct2npKD8)
 </details>
 
+
 <details>
-<summary>10. Web Development Overview</summary>
+<summary>10. Web Development Overview(Optional)</summary>
 
 - 📹 [Eyad Hamza - Backend Group Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 - 📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
@@ -144,15 +142,27 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 ## Beginner Level: 
 
-#### 01. Introduction to Data Bases:
+
+<details>
+<summary>01. Introduction to Data Bases</summary>
+
 - 📹 [Fundamentals of Database Systems - الدسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
 - 📹 [Database Fundamentals - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=740)
+</details>
 
-#### 02. MySql:
+
+<details>
+<summary>02. MySql</summary>
+
 - 📹 [MySQL 5 Essential Training - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
 - 📖 [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
+</details>
 
-#### 03. PHP: 
+
+<details>
+<summary>03. PHP</summary>
+
+
 <details>
 <summary>PHP - Basics</summary>
 
@@ -226,6 +236,10 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 - 📹 [PHP website security & Hacking prevention (English)](https://www.youtube.com/playlist?list=PLY3j36HMSHNVaHbm5gf302PjGAmYZKZv1)
 - 📹 [TheNewBaghdad - كيف تهكر موقع الكتروني](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3kbFivlWbtoDCNjo4qRAZd)
 </details>
+</details>
+
+
+
 
 > :bulb: Your Task Through the 2 next courses is To Implement what you learn using **PHP**.
 #### 04. DataStructures: 
