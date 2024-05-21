@@ -159,95 +159,70 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 </details>
 
 
+
 <details>
 <summary>03. PHP</summary>
 
+- **PHP - Basics:**
+    - 📹 [PHP - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
+    - 📹 [PHP For Beginners Laracasts (Recommended)](https://laracasts.com/series/php-for-beginners-2023-edition)
 
-<details>
-<summary>PHP - Basics</summary>
+- **PHP Beginner projects:**
+    - 📹 [PHP registration form & validation](https://youtu.be/V5sJ76T3mWg)
+    - 📹 [Create MySql Notes App](https://youtu.be/DOsuFRnBqLU)
 
-- 📹 [PHP - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
-- 📹 [PHP For Beginners Laracasts (Recommended)](https://laracasts.com/series/php-for-beginners-2023-edition)
+- **PHP - OOP:**
+    - 📹 [OOP - Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+    - 📹 [OOP - Dani Krossing (Recommended)](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) 
+
+- **Solid Principles In PHP:**
+    - 📹 [SOLID Principles - Mohamed Yahya](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
+
+- **PHP Projects:**
+    - 📹 [Building Web Applications Using PHP & MYSQL - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
+    - 📹 [PHP 5.6 and MySQL 5.7 (Very Comprehensive Course)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
+
+- **PHP - MVC:**
+    - 📹 [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
+    - 📹 [PHP MVC Assignment Tracker Project](https://www.youtube.com/watch?v=Rkg731t47dc&t=1s&ab_channel=DaveGray)
+    - 📹 [PHP MVC Framework from scratch (Important Intro to Laravel)](https://www.youtube.com/watch?v=q0JhJBYi4sw&ab_channel=QuickProgramming) 
+
+- **Php - APIs:**
+    - &nbsp; **Introduction to apis**
+        - 📹 [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
+        - 📹 [APIs | REST | REST APIs Demystified](https://www.youtube.com/watch?v=FOZtRzY5x8E)
+
+    - &nbsp; **Apis in PHP**
+        - 📹 [API using PHP](https://youtube.com/playlist?list=PLe_UJpVeP8qC19dcR1mgb6Uad2SRrtfmL)
+        - 📹 [REST API with PHP - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
+
+- **PHP - PDO:**
+    - 📹 [PHP Data Object (PDO) (Arabic)](https://www.youtube.com/playlist?list=PLZA0Ty4MhTp7_hNYmR3_DB6DlIxY--B4k)
+    
+- **PHP - Testing:**
+    - 📹 [PHPUnit Testing](https://www.youtube.com/playlist?list=PLe30vg_FG4OTsFRc1eWppZfYwZdMlLuhE)
+
+- **PHP - Security:**
+    - 📹 [Secure Your PHP Web Application - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAypWmEHEy3awR6Ek9sUe5ZS)
+    - 📹 [PHP website security & Hacking prevention (English)](https://www.youtube.com/playlist?list=PLY3j36HMSHNVaHbm5gf302PjGAmYZKZv1)
+    - 📹 [TheNewBaghdad - كيف تهكر موقع الكتروني](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3kbFivlWbtoDCNjo4qRAZd)
+
 </details>
-
-<details>
-<summary>PHP Beginner projects</summary>
-
-- 📹 [PHP registration form & validation](https://youtu.be/V5sJ76T3mWg)
-- 📹 [Create MySql Notes App](https://youtu.be/DOsuFRnBqLU)
-</details>
-
-<details>
-<summary>PHP - OOP </summary>
-
-- 📹 [OOP - Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
-- 📹 [OOP - Dani Krossing (Recommended)](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) 
-</details>
-
-<details>
-<summary>Solid Principles In PHP</summary>
-
-- 📹 [SOLID Principles - Mohamed Yahya](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
-</details>
-
-<details>
-<summary>PHP Projects </summary>
-
-- 📹 [Building Web Applications Using PHP & MYSQL - Mahara Tech](https://maharatech.gov.eg/course/view.php?id=21)
-- 📹 [PHP 5.6 and MySQL 5.7 (Very Comprehensive Course)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
-</details>
-
-<details>
-<summary>PHP - MVC </summary>
-
-- 📹 [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
-- 📹 [PHP MVC Assignment Tracker Project](https://www.youtube.com/watch?v=Rkg731t47dc&t=1s&ab_channel=DaveGray)
-- 📹 [PHP MVC Framework from scratch (Important Intro to Laravel)](https://www.youtube.com/watch?v=q0JhJBYi4sw&ab_channel=QuickProgramming) 
-</details>
-
-<details>
-<summary>Php - APIs</summary>
-
-&nbsp; **Introduction to apis**
-- 📹 [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
-- 📹 [APIs | REST | REST APIs Demystified](https://www.youtube.com/watch?v=FOZtRzY5x8E)
-
-&nbsp; **Apis in PHP**
-- 📹 [API using PHP](https://youtube.com/playlist?list=PLe_UJpVeP8qC19dcR1mgb6Uad2SRrtfmL)
-- 📹 [REST API with PHP - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
-</details>
-
-<details>
-<summary>PHP - PDO </summary>
-
-- 📹 [PHP Data Object (PDO) (Arabic)](https://www.youtube.com/playlist?list=PLZA0Ty4MhTp7_hNYmR3_DB6DlIxY--B4k)
-</details>
-
-<details>
-<summary>PHP - Testing </summary>
-
-- 📹 [PHPUnit Testing](https://www.youtube.com/playlist?list=PLe30vg_FG4OTsFRc1eWppZfYwZdMlLuhE)
-</details>
-
-<details>
-<summary>PHP - Security </summary>
-
-- 📹 [Secure Your PHP Web Application - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAypWmEHEy3awR6Ek9sUe5ZS)
-- 📹 [PHP website security & Hacking prevention (English)](https://www.youtube.com/playlist?list=PLY3j36HMSHNVaHbm5gf302PjGAmYZKZv1)
-- 📹 [TheNewBaghdad - كيف تهكر موقع الكتروني](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3kbFivlWbtoDCNjo4qRAZd)
-</details>
-</details>
-
 
 
 
 > :bulb: Your Task Through the 2 next courses is To Implement what you learn using **PHP**.
-#### 04. DataStructures: 
+<details>
+<summary>04. DataStructures</summary>
+
 - 📹 [Data Structures - Dr. Waleed Youssef (Recommended)](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)  
 - 📹 [Data Structures - Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+</details>
 
-#### 05. Algorithms: 
+<summary> 05. Algorithms</summary>
+
 - 📖 [Grokking Algorithms - Entry Level](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+</details>
 
 ---
 
