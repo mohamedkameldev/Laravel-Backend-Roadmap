@@ -94,9 +94,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>07. Git & Github</summary>
 
 - 📹 [Learn Git and Github - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
-- 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)  
-<br>
-&nbsp; and for extra Reading
+- 📹 [Git and GitHub | شخبط وانت متطمن (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 - 📖 [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
 - 📖 [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
 </details>
@@ -209,7 +207,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>04. Data Structures</summary>
 
 > :bulb: While learning datastructures and algorithms, implement what will you learn using PHP **PHP**.
-- 📹 [Data Structures - Dr. Waleed Youssef (Recommended)](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)  
+- 📹 [Data Structures - Dr. Waleed Youssef (Recommended)](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
 - 📹 [Data Structures - Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 </details>
 
@@ -437,15 +435,15 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>01. Networking</summary>
 
 - 📹 [Networks (Arabic)](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp) 
-- 📹 [CCNA 200-301 - CCNA v7.02 By (Arabic)](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp)  
+- 📹 [CCNA 200-301 - CCNA v7.02 By (Arabic)](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp)
 </details>
 
 
 <details>
 <summary>02. Operating Systems</summary>
 
-- 📹 [ITI (Operating Systems) - DR Mohamed Handosa](https://www.youtube.com/playlist?list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV)  
-- 📹 [Operating Systems Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)  
+- 📹 [ITI (Operating Systems) - DR Mohamed Handosa](https://www.youtube.com/playlist?list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV)
+- 📹 [Operating Systems Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 - 📹 [Operating Systems](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
 </details>
 
@@ -462,7 +460,7 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 - 📹 [Docker - Free Code Camp - English](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
 - 📹 [Docker - TechWorld with Nana - English](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
-- 📹 [Docker Practical Course - Arabic](https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)   
+- 📹 [Docker Practical Course - Arabic](https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
 </details>
 
 
@@ -485,8 +483,8 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <details>
 <summary>07. Designing Data-Intensive Applications</summary>
 
-- 📹 [Designing Data Intensive Applications](https://www.youtube.com/playlist?list=PLUPAWTeBzOjOKqcdVv11XSjcPRbXMpGtg)  
-- 📹 [Designing data intensive applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)  
+- 📹 [Designing Data Intensive Applications](https://www.youtube.com/playlist?list=PLUPAWTeBzOjOKqcdVv11XSjcPRbXMpGtg)
+- 📹 [Designing data intensive applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)
 - 📹 [Designing data intensive applications summary playlist - English ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
 - 📖 [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 </details>
@@ -519,33 +517,45 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 ## Hack Your Career: 
 
-- #### Resume & CV: 
+<details>
+<summary>Resume & CV</summary>
 
-    ##### Harvard resources: 
+- **Harvard resources**: 
     - 📄 [Resume & Cover Letter Tips and Templates](https://t.co/q2hukYUdGZ)
     - 📄 [More Resume Templates](https://t.co/UAdonLL8Zi)
     - 📄 [Document on CVs and Cover Letters](https://t.co/hbieZBGNc4)
     - 📹 [How to Write a Resume](https://www.youtube.com/watch?v=lcgS0kaIgng)
     
-    ##### Websites
+- **Websites**:
     - 🖇️ [A GOOD Resume - Career CUP](https://www.careercup.com/resume)
     - 🖇️ [InterviewBit: Coding Interview Questions](https://www.interviewbit.com/)
-
-- #### Hunting your First Job: 
-
-    - 📹 [How to hunt your job or Intern (Online Session)](https://www.youtube.com/watch?v=WMOBYOeJAfg)
-    - 📹 [14 Habits of Highly Productive Developers (Arabic)](https://www.youtube.com/watch?v=Ll6KIN5fH10)
-    - 📹 [Career Development (Arabic)](https://www.youtube.com/playlist?list=PLux-0CbBEEvClyo4ryQmJUe0JG2gGfVbF)
-    - 📖 [Ahmed Metwally's Book - دليل الموظف المستجد](https://metwallylabs.com/dalelmozaf.html)
-
-- #### Interview Questions: 
-    - 🖇️ [Backend Interview Questions - Fullstack Cafe](https://www.fullstack.cafe/blog/backend-developer-interview-questions)
-    - 🖇️ [Laravel Interview Questions - Guru99](https://www.guru99.com/laravel-interview-questions.html)
-    - 🖇️ [Laravel Interview Questions - Java Point](https://www.javatpoint.com/laravel-interview-questions)
-    - 🖇️ [Laravel Interview Questions - hackr.io](https://hackr.io/blog/top-laravel-interview-questions-and-answers)
-    - 📹 [Software Engineering Full Mock Interview - freeCodeCamp](https://www.youtube.com/watch?v=1qw5ITr3k9E&t=3613s)
+</details>
 
 
-- #### Be Updated With Laravel: 
-    - [List of People to Follow](https://laraveldaily.com/people-to-follow)
-    - [Laravel News & Updates](https://laravel-news.com/podcast)
+<details>
+<summary>Hunting your First Job</summary>
+
+- 📹 [How to hunt your job or Intern (Online Session)](https://www.youtube.com/watch?v=WMOBYOeJAfg)
+- 📹 [14 Habits of Highly Productive Developers (Arabic)](https://www.youtube.com/watch?v=Ll6KIN5fH10)
+- 📹 [Career Development (Arabic)](https://www.youtube.com/playlist?list=PLux-0CbBEEvClyo4ryQmJUe0JG2gGfVbF)
+- 📖 [Ahmed Metwally's Book - دليل الموظف المستجد](https://metwallylabs.com/dalelmozaf.html)
+</details>
+
+
+<details>
+<summary>Interview Questions</summary>
+
+- 🖇️ [Backend Interview Questions - Fullstack Cafe](https://www.fullstack.cafe/blog/backend-developer-interview-questions)
+- 🖇️ [Laravel Interview Questions - Guru99](https://www.guru99.com/laravel-interview-questions.html)
+- 🖇️ [Laravel Interview Questions - Java Point](https://www.javatpoint.com/laravel-interview-questions)
+- 🖇️ [Laravel Interview Questions - hackr.io](https://hackr.io/blog/top-laravel-interview-questions-and-answers)
+- 📹 [Software Engineering Full Mock Interview - freeCodeCamp](https://www.youtube.com/watch?v=1qw5ITr3k9E&t=3613s)
+</details>
+
+
+<details>
+<summary>Be Updated With Laravel</summary>
+
+- [List of People to Follow](https://laraveldaily.com/people-to-follow)
+- [Laravel News & Updates](https://laravel-news.com/podcast)
+</details>
