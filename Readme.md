@@ -66,12 +66,17 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 
 
 <details>
-<summary>03. Javascript</summary>
+<summary>03. Javascript & Ajax & JSON</summary>
 
-- 📹 [JavaScript - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
-- 📹 [JavaScript - FreeCodeCamp crash course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- 📹 [dive into AJAX with Vanilla JS](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
-- 📹 [how to create JSON objects and arrays](https://www.youtube.com/watch?v=wI1CWzNtE-M&ab_channel=TraversyMedia)
+- **Vanilla Javascript:**
+    - 📹 [JavaScript - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+    - 📹 [JavaScript - FreeCodeCamp crash course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
+- **Ajax with Vanilla JavaScript:**
+    - 📹 [AJAX Crash Course - Traversy Media](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
+    
+- **Json:**
+    - 📹 [JSON Crash Course - Traversy Media](https://www.youtube.com/watch?v=wI1CWzNtE-M&ab_channel=TraversyMedia)
 </details>
 
 
@@ -302,7 +307,6 @@ We cannot separate them; they depend on each other. Therefore, **We must learn t
 <summary>04. Laravel</summary>
 
 - **Laravel Basics:**
-    - 📹 [Laravel Basics - Building a Blog Website](https://www.youtube.com/watch?v=Q4z6U23cTVc)
     - 📹 [PHP Laravel 9 Course: Multi-Vendor Store Example (Recommended)](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
     - 📹 [laravel 8 from scratch (Recommended)](https://laracasts.com/series/laravel-8-from-scratch)
     - 📖 [Laravel: Up & Running, 3rd Edition - Oreilly (Recommended)](https://www.oreilly.com/library/view/laravel-up/9781098153250/)
